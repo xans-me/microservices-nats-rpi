@@ -1,0 +1,8 @@
+{
+  "name": "moleculer-store",
+  "dependencies": {
+    "moleculer": "^0.13.12",
+    "moleculer-web": "^0.8.5",
+    "nats": "^1.3.2"
+  }
+}
